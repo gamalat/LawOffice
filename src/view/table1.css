@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 12, 2017, 1:30:08 AM
+    Author     : Al-Ahram
+*/
+
+.button{
+    -fx-background-color: darkseagreen;
+    -fx-background-radius: 30;
+    -fx-padding-top: 10px;
+    -fx-spacing: 8px;
+    -f-margin-top:10;
+    -fx-font-weight:bold;
+     -fx-font: bold italic 20pt "Arial";
+    -fx-text-fill: white;
+    
+}
+.root{
+
+    -fx-background-image: url("/view/is.jpg");
+    background-repeat: no-repeat;
+    -fx-background-size: cover;
+
+
+
+}
